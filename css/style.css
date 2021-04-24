@@ -1,0 +1,48 @@
+body{
+    height: 100vh;
+    background-image: linear-gradient( white, #d7e2ea);
+}
+
+header{
+    text-align: center;
+    font-family: 'Fira Sans Condensed', sans-serif;
+}
+
+table{
+    border-spacing: 0px;
+    box-shadow: 5px 5px 8px 2px #445A67;
+    border-radius: 5px;
+    font-family: sans-serif;
+}
+
+thead{
+    background-color: #ABDEE6;
+}
+
+tr{
+    
+}
+
+th{
+    border-bottom: 2px solid #AAA;
+}
+
+td{
+    text-align: center;
+    font-family: 'Fira Sans Condensed', sans-serif;
+    font-weight: bolder;
+    border-bottom: 2px solid #CAB3C1;
+}
+
+a{
+    text-decoration: none;
+    background-color: #DDD;
+    color: #555;
+    font-weight: bold;
+    border-radius: 10px;
+    transition: box-shadow 0.5s;
+}
+
+a:hover{
+    box-shadow: 0px 3px 5px 0px #445A67;
+}

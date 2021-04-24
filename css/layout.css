@@ -1,0 +1,27 @@
+header{
+    padding: 20px 0px;
+}
+
+table{
+    margin: 20px auto;
+}
+
+tr{
+    width: 70%;
+}
+
+th{
+    padding: 10px 100px;
+
+}
+
+td{
+    padding: 10px 0px;
+}
+
+a{
+    display: block;
+    width: 70%;
+    height: 100%;
+    margin:auto;
+}
